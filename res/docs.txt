@@ -1,0 +1,22 @@
+Sequence
+    private list of channels
+    get channel by name or id
+    get selected area
+        get how many channels are selected
+        mix x
+        max x
+        min y
+        max y
+        
+        
+Channel
+    private list of events
+    get event at time
+    get all events
+    get event between two events
+    
+    
+Event
+    value from 0 - 100
+    get value
+    set value
